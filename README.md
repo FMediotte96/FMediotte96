@@ -5,7 +5,7 @@
 
 ## 📫 Connect with me: 
 - 🔭 I'm currently working on [Despegar](https://www.despegar.com.ar/)
-- ✉️ How to reach me: **facumediotte@gmail.com**
+- ✉️ How to reach me: facumediotte@gmail.com
 
 
 <!--
