@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Facundo Mediotte
+
+#### Java Fullstack Developer ♨️ - Kotlin Developer - Springboot 🍃 - Docker 🐳 - Golang 💻
+#### System Engineering Student at UNLaM 🇦🇷
+
+## 📫 Connect with me: 
+- 🔭 I'm currently working on [Despegar](https://www.despegar.com.ar/)
+- ✉️ How to reach me: **facumediotte@gmail.com**
+
 
 <!--
 **FMediotte96/FMediotte96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
