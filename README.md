@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Facundo Mediotte
 
 #### Java Fullstack Developer ♨️ - Kotlin Developer - Springboot 🍃 - Docker 🐳 - Golang 💻
-#### System Engineering Student at UNLaM 🇦🇷
+#### System Engineering UNLaM 🇦🇷
 
 ## 📫 Connect with me: 
 - 🔭 I'm currently working on [Despegar](https://www.despegar.com.ar/)
